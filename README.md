@@ -1,1 +1,1 @@
-This is the working draft of the Bahamas Guide for Applicants for Research and Access and Benefit-Sharing. 
+This is the home for the Bahamas Guide for Applicants for Research and Access and Benefit-Sharing. 
